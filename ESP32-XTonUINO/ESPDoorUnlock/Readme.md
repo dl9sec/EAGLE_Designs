@@ -35,5 +35,8 @@ The 'Seial.print()/Serial.println' could be replaced by a 'Serial.printf()' whic
   <dt>Example views (License CC BY-NC-ND 4.0)</dt>
   <dd>ESP32DoorUnlock_Top.jpg, ESP32DoorUnlock_Bottom.jpg & ESP32DoorUnlock_Case.jpg are images of the assembled PCB and the PCB in the housing.</dd>
   
+  <dt>RFID symbol (License CC BY-NC-ND 4.0)</dt>
+  <dd>RFID symbol as PNG (RFID.png) and Silhouette cutting plotter file (RFID.studio3).</dd>
+  
   <dt>ESP32DoorUnlock (License GPL-3.0-only)</dt>
   <dd>ESP32DoorUnlock.ino is an example for an ESP-32 door unlocker based on Miguel Balboa's 'AccessControl' example.</dd>

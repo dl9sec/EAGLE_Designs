@@ -71,107 +71,9 @@
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="100" name="Logo" color="8" fill="1" visible="yes" active="yes"/>
-<layer number="101" name="Hidden" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="102" name="Changes" color="12" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="tMap" color="7" fill="1" visible="no" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
-<layer number="151" name="tDummy" color="4" fill="1" visible="no" active="yes"/>
-<layer number="152" name="bDummy" color="1" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="no"/>
-<layer number="201" name="tLogo" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="216" name="bLogo" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
-<layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
-<layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
-<layer number="220" name="220bmp" color="21" fill="1" visible="no" active="no"/>
-<layer number="221" name="221bmp" color="22" fill="1" visible="no" active="no"/>
-<layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
-<layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
-<layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
-<layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
-<layer number="254" name="OrgLBR" color="13" fill="1" visible="no" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="frames">
-<packages>
-</packages>
-<symbols>
-<symbol name="DINA4_L">
-<frame x1="0" y1="0" x2="264.16" y2="180.34" columns="4" rows="4" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
-</symbol>
-<symbol name="DOCFIELD">
-<wire x1="0" y1="0" x2="71.12" y2="0" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="15.24" x2="87.63" y2="15.24" width="0.1016" layer="94"/>
-<wire x1="0" y1="0" x2="0" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="0" y1="5.08" x2="71.12" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="0" y1="5.08" x2="0" y2="15.24" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="15.24" x2="101.6" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="71.12" y1="5.08" x2="71.12" y2="0" width="0.1016" layer="94"/>
-<wire x1="71.12" y1="5.08" x2="87.63" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="71.12" y1="0" x2="101.6" y2="0" width="0.1016" layer="94"/>
-<wire x1="87.63" y1="15.24" x2="87.63" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="87.63" y1="15.24" x2="0" y2="15.24" width="0.1016" layer="94"/>
-<wire x1="87.63" y1="5.08" x2="101.6" y2="5.08" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="5.08" x2="101.6" y2="0" width="0.1016" layer="94"/>
-<wire x1="0" y1="15.24" x2="0" y2="22.86" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="35.56" x2="0" y2="35.56" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="35.56" x2="101.6" y2="22.86" width="0.1016" layer="94"/>
-<wire x1="0" y1="22.86" x2="101.6" y2="22.86" width="0.1016" layer="94"/>
-<wire x1="0" y1="22.86" x2="0" y2="35.56" width="0.1016" layer="94"/>
-<wire x1="101.6" y1="22.86" x2="101.6" y2="15.24" width="0.1016" layer="94"/>
-<text x="1.27" y="1.27" size="2.54" layer="94">Date:</text>
-<text x="12.7" y="1.27" size="2.54" layer="94">&gt;LAST_DATE_TIME</text>
-<text x="72.39" y="1.27" size="2.54" layer="94">Sheet:</text>
-<text x="86.36" y="1.27" size="2.54" layer="94">&gt;SHEET</text>
-<text x="88.9" y="11.43" size="2.54" layer="94">REV:</text>
-<text x="1.27" y="19.05" size="2.54" layer="94">TITLE:</text>
-<text x="1.27" y="11.43" size="2.54" layer="94">Document Number:</text>
-<text x="17.78" y="19.05" size="2.54" layer="94">&gt;DRAWING_NAME</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="DINA4_L" prefix="FRAME" uservalue="yes">
-<description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
-DIN A4, landscape with extra doc field</description>
-<gates>
-<gate name="G$1" symbol="DINA4_L" x="0" y="0"/>
-<gate name="G$2" symbol="DOCFIELD" x="162.56" y="0" addlevel="must"/>
-</gates>
-<devices>
-<device name="">
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="dl9sec_public">
 <packages>
 <package name="AZD_ESP-32DEVKITC">
@@ -2021,7 +1923,6 @@ General purpose diode</description>
 </class>
 </classes>
 <parts>
-<part name="FRAME1" library="frames" deviceset="DINA4_L" device=""/>
 <part name="+5V1" library="dl9sec_public" deviceset="+5V" device=""/>
 <part name="C4" library="dl9sec_public" deviceset="C" device="0805" value="10uF"/>
 <part name="C5" library="dl9sec_public" deviceset="C" device="0805" value="10uF"/>
@@ -2172,7 +2073,7 @@ General purpose diode</description>
 <sheets>
 <sheet>
 <plain>
-<text x="177.8" y="27.94" size="2.54" layer="97">(c) 2019 Thorsten Godau (dl9sec)</text>
+<text x="193.04" y="2.54" size="2.54" layer="97">(c) 2019 Thorsten Godau (dl9sec)</text>
 <text x="121.92" y="88.265" size="1.27" layer="97" rot="R90">BTN3</text>
 <text x="25.4" y="73.025" size="1.27" layer="97" rot="R90">BTN2</text>
 <text x="12.7" y="75.565" size="1.27" layer="97" rot="R90">BTN1</text>
@@ -2212,10 +2113,20 @@ General purpose diode</description>
 <text x="225.425" y="118.745" size="1.27" layer="97">SPKR</text>
 <text x="76.835" y="147.955" size="1.27" layer="97" rot="R270">BATT-</text>
 <text x="81.915" y="147.955" size="1.27" layer="97" rot="R270">BATT+</text>
+<wire x1="0" y1="0" x2="190.5" y2="0" width="0.254" layer="97"/>
+<wire x1="190.5" y1="0" x2="264.16" y2="0" width="0.254" layer="97"/>
+<wire x1="264.16" y1="15.24" x2="264.16" y2="180.34" width="0.254" layer="97"/>
+<wire x1="264.16" y1="180.34" x2="0" y2="180.34" width="0.254" layer="97"/>
+<wire x1="0" y1="180.34" x2="0" y2="0" width="0.254" layer="97"/>
+<wire x1="190.5" y1="0" x2="190.5" y2="7.62" width="0.254" layer="97"/>
+<wire x1="190.5" y1="7.62" x2="190.5" y2="15.24" width="0.254" layer="97"/>
+<wire x1="190.5" y1="15.24" x2="264.16" y2="15.24" width="0.254" layer="97"/>
+<wire x1="264.16" y1="15.24" x2="264.16" y2="7.62" width="0.254" layer="97"/>
+<wire x1="264.16" y1="7.62" x2="264.16" y2="0" width="0.254" layer="97"/>
+<wire x1="190.5" y1="7.62" x2="264.16" y2="7.62" width="0.254" layer="97"/>
+<text x="193.04" y="10.16" size="2.54" layer="97">ESP32-XTonUINO</text>
 </plain>
 <instances>
-<instance part="FRAME1" gate="G$1" x="0" y="0"/>
-<instance part="FRAME1" gate="G$2" x="162.56" y="0"/>
 <instance part="+5V1" gate="G$1" x="73.66" y="127"/>
 <instance part="C4" gate="G$1" x="166.37" y="127" smashed="yes">
 <attribute name="NAME" x="168.91" y="132.08" size="1.27" layer="95"/>
